@@ -22,7 +22,11 @@ body {
     padding: 50px;
 }
 
-#area-logo, #area-menu {
+#area-logo {
+    padding: 10px;
+}
+
+#area-menu {
     padding: 10px;
 }
 
